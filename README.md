@@ -1,6 +1,13 @@
-<div align="right">
+<div align="middle">
 
+  **Current Status of Website**
+  <br>
+  <br>
   [![Netlify Status](https://api.netlify.com/api/v1/badges/c9e6ca72-ed43-4564-a700-853dbe776571/deploy-status)](https://app.netlify.com/sites/marionville-fbla/deploys)
+
+  <br>
+  <br>
+  
   
 </div>
 
