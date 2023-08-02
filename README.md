@@ -1,3 +1,10 @@
+<div align="right">
+
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/c9e6ca72-ed43-4564-a700-853dbe776571/deploy-status)](https://app.netlify.com/sites/marionville-fbla/deploys)
+  
+</div>
+
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
