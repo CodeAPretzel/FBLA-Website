@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Welcome to Marionville FBLA
       image:
-        filename: hero-academic.png
+        filename: logo-in-website.png
       cta:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
