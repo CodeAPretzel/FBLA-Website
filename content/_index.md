@@ -245,7 +245,9 @@ sections:
       phone: (***) *** ****
       appointment_url: 'https://calendly.com'
     
-      # Below is Commented out Addresses and Contact Hours
+      # Below are commented out addresses, contact hours, and appointment URL:
+    
+      # appointment_url: 'https://calendly.com'
       # address:
       # street: 450 Serra Mall
       # city: Stanford
