@@ -241,9 +241,10 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: kallen@marionville.us
+      phone: (***) *** ****
       appointment_url: 'https://calendly.com'
+      <!-- Below is our 'Address' and 'Contact Hours' (might not be necessary)
       address:
         street: 450 Serra Mall
         city: Stanford
@@ -255,19 +256,16 @@ sections:
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
+      -->
       contact_links:
-        - icon: twitter
+        - icon: instagram
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
+          name: Instagram
+          link: 'https://www.instagram.com/marionville_fbla/'
+        - icon: snapchat
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: Snapchat
+          link: 'example.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
