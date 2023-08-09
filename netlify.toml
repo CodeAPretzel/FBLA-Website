@@ -4,12 +4,6 @@
   publish = "public"
   publishOrigin = "config"
 
-[plugins]
-  inputs =
-    debug = "true"
-  origin = "config"
-  package = "netlify-plugin-hugo-cache-resources"
-
 [build.environment]
   HUGO_VERSION = "0.111.3"
   HUGO_ENABLEGITINFO = "true"
@@ -25,5 +19,6 @@
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
+  origin = "config"
   [plugins.inputs]
     debug = true
