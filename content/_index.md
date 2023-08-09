@@ -191,10 +191,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        ~ Gallery section of FBLA's Achievements/Events ~
-        
-        # Get gallery section below.
-        #{{< gallery album="" >}}
+        {{< gallery album="demo" >}}
     design:
       columns: '1'
   - block: collection
