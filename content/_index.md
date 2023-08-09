@@ -243,7 +243,6 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: kallen@marionville.us
       phone: (***) *** ****
-      appointment_url: 'https://calendly.com'
     
       # Below are commented out addresses, contact hours, and appointment URL:
     
