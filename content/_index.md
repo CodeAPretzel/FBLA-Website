@@ -13,10 +13,10 @@ sections:
         filename: logo-in-website.png
       cta:
         label: '**EX. Button**'
-        url: example.com
+        url: https://example.com
       cta_alt:
         label: Make a Form Request
-        url: example.com
+        url: https://example.com
       cta_note:
         label: >-
     
