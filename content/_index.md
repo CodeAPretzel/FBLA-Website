@@ -192,11 +192,9 @@ sections:
       subtitle: ''
       text: |-
         ~ Gallery section of FBLA's Achievements/Events ~
-
-        The Gallery format can be:
-
         
-        {{< gallery album="" >}}
+        # Get gallery section below.
+        #{{< gallery album="" >}}
     design:
       columns: '1'
   - block: collection
