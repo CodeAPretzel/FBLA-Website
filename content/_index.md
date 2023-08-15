@@ -8,24 +8,24 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Welcome to Marionville FBLA
+      title: **Welcome to Marionville FBLA**
       image:
         filename: logo-in-website.png
       cta:
-        label: '**EX. Button**'
+        label: '**Subscribe**'
         url: https://example.com
       cta_alt:
-        label: Make a Form Request
+        label: Make a Request
         url: https://example.com
       cta_note:
         label: >-
     
       text: |-
-        **⚠️ Under construction use of description and/or directions. ⚠️**
-
-        **⚠️ Under construction use of description and/or directions. ⚠️**
+        We are a high school organization that provides teaching and guidance for members about business-related education.
 
         ⚠️ Under construction use of description and/or directions. ⚠️
+
+        **Want to subscribe to our newsletter or want a request?**
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
