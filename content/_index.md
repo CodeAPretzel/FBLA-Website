@@ -9,7 +9,6 @@ sections:
   - block: hero
     content:
       title: Welcome to Marionville FBLA
-      text: <br>
       image:
         filename: logo-in-website.png
       cta:
@@ -22,6 +21,8 @@ sections:
         label: >-
     
       text: |-
+        <hr>
+        <br>
         We are a high school organization that teaches and guides members about business-related education.
 
         **Want to subscribe to our newsletter or want a feature request?**
