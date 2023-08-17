@@ -66,9 +66,9 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: true
+    enable: false
   privacy_pack:
-    enable: true
+    enable: false
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
