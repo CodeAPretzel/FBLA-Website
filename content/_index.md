@@ -13,15 +13,15 @@ sections:
         filename: logo-in-website.png
       cta:
         label: '**Subscribe**'
-        url: https://example.com
+        url: example.com
       cta_alt:
         label: Make a Request
-        url: https://example.com
+        url: example.com
       cta_note:
         label: >-
     
       text: |-
-        We are a high school organization that provides teaching and guidance for members about business-related education.
+        We are a high school organization that teaches and guides members about business-related education.
 
         ⚠️ Under construction use of description and/or directions. ⚠️
 
