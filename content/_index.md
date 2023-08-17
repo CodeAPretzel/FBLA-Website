@@ -21,9 +21,9 @@ sections:
         label: >-
     
       text: |-
-        <hr>
         <br>
         We are a high school organization that teaches and guides members about business-related education.
+        <br>
 
         **Want to subscribe to our newsletter or want a feature request?**
 
