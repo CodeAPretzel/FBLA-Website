@@ -9,6 +9,7 @@ sections:
   - block: hero
     content:
       title: Welcome to Marionville FBLA
+      text: <br>
       image:
         filename: logo-in-website.png
       cta:
