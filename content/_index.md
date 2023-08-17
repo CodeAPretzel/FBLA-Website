@@ -24,6 +24,7 @@ sections:
         <br>
         We are a high school organization that teaches and guides members about business-related education.
         <br>
+        -
         <br>
 
         **Want to subscribe to our newsletter or make a feature request?**
