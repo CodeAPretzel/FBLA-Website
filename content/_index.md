@@ -26,7 +26,7 @@ sections:
         <br>
         <br>
 
-        **Want to subscribe to our newsletter or want a feature request?**
+        **Want to subscribe to our newsletter or make a feature request?**
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
