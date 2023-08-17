@@ -23,9 +23,7 @@ sections:
       text: |-
         We are a high school organization that teaches and guides members about business-related education.
 
-        ⚠️ Under construction use of description and/or directions. ⚠️
-
-        **Want to subscribe to our newsletter or want a request?**
+        **Want to subscribe to our newsletter or want a feature request?**
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
