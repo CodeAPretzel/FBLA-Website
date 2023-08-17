@@ -8,7 +8,7 @@ type: landing
 sections:
   - block: hero
     content:
-    label: Welcome to Marionville FBLA
+    title: Welcome to Marionville FBLA
       image:
         filename: logo-in-website.png
       cta:
