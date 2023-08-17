@@ -8,7 +8,8 @@ type: landing
 sections:
   - block: hero
     content:
-      label: <h1>Welcome to Marionville FBLA</h1>
+      text: |-
+        <h1>Welcome to Marionville FBLA</h1>
       image:
         filename: logo-in-website.png
       cta:
