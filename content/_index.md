@@ -46,7 +46,7 @@ sections:
       username: marionville-fbla
   - block: features
     content:
-      title: Monthly Newsletter <br><br><br>
+      title: Monthly Newsletter <br><br>
       items:
         - name:
           description:
@@ -62,8 +62,8 @@ sections:
           icon_pack:
   - block: experience
     content:
-      title: Experience
-      # Date format for experience
+      title: Dates for Events
+      #   Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Experiences.
@@ -72,9 +72,9 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: {title field}
+          company: FBLA
+          company_url: 'https://example.com'
           company_logo: org-gc
           location: California
           date_start: '2021-01-01'
