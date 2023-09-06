@@ -46,7 +46,7 @@ sections:
       username: marionville-fbla
   - block: features
     content:
-      title: Monthly Newsletter
+      title: Monthly Newsletter <br>
       items:
         - name:
           description:
