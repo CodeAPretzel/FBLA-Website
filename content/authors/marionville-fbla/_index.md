@@ -1,7 +1,8 @@
 ---
 title: Marionville FBLA
+role: ""
 avatar_filename: avatar.png
-bio: "- Short Bio."
+bio: Marionville High School FBLA Organization
 social:
   - display:
       header: false
@@ -14,9 +15,19 @@ social:
     icon: snapchat
     link: example.com
 organizations:
-  - name: Marionville
+  - name: Marionville's Website
     url: https://www.marionville.us/
 email: kallen@marionville.us
 superuser: true
 ---
-\-﻿ Long Bio.
+<!--StartFragment-->
+
+FBLA, or *Future Business Leaders of America*, is a dynamic organization dedicated to shaping tomorrow's business leaders. Through interactive programs and competitions, FBLA empowers young students to explore the exciting world of business and marketing, fostering skills and knowledge that will serve them well in their future careers.
+
+## Planned Events
+
+1. [{﻿site}](https://example.com)
+2. [{﻿site}](https://example.com)
+3. [{﻿site}](https://example.com)
+
+<!--EndFragment-->
