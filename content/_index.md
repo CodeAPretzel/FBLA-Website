@@ -75,7 +75,7 @@ sections:
         - title: =title field=
           company: Marionville FBLA
           company_url: 'https://example.com'
-          company_logo: null-icon.jpg
+          company_logo: null-icon
           location: =location field=
           date_start: '2023-09-01'
           date_end: ''
@@ -87,7 +87,7 @@ sections:
         - title: =title field=
           company: Marionville FBLA
           company_url: 'https://example.com'
-          company_logo: null-icon.jpg
+          company_logo: null-icon
           location: =location field=
           date_start: '2023-09-01'
           date_end: '2023-09-02'
