@@ -1,6 +1,6 @@
 ---
 title: Marionville FBLA
-avatar_filename: avatar
+avatar_filename: fbla-logo.png
 bio: "- Short Bio."
 social:
   - display:
