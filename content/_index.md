@@ -41,9 +41,9 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: FBLA Objective 
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: marionville-fbla
   - block: features
     content:
       title: Skills
