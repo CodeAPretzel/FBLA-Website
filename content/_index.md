@@ -90,7 +90,7 @@ sections:
           company_logo: null-icon
           location: =location field=
           date_start: '2023-09-01'
-          date_end: ''
+          date_end: '2023-09-02'
           description: ~ Description Field:
     design:
       columns: '2'
