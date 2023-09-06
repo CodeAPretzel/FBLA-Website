@@ -91,7 +91,8 @@ sections:
           location: =location field=
           date_start: '2023-09-01'
           date_end: '2023-09-02'
-          description: ~ Description Field:
+          description: |2-
+              ~ Description Field:
     design:
       columns: '2'
   - block: accomplishments
