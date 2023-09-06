@@ -46,20 +46,12 @@ sections:
       username: marionville-fbla
   - block: features
     content:
-      title: Skills
+      title: Monthly Newsletter
       items:
-        - name: R
-          description: 90%
+        - name: October Newsletter
+          description: Our FBLA school organization believes in recognizing the outstanding achievements of our members. Each month, we curate a special newsletter highlighting deserving individuals who have excelled in their commitment to business and leadership. This initiative aims to celebrate their hard work, dedication, and contributions within our community, fostering a culture of appreciation and motivation for all our members.
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
