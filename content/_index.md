@@ -95,33 +95,10 @@ sections:
               ~ Description Field:
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Marionville FBLA Posts'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-    design:
-      columns: '2'
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: FBLA Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
