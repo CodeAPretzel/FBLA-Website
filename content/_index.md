@@ -205,7 +205,7 @@ sections:
       text: |-
     
       # Contact (add or remove contact options)
-      email: kallen@marionville.us
+      # email: kallen@marionville.us
       # phone: (417) 403-4341
     
       # Below are commented out addresses, contact hours, and appointment URL:
