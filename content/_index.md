@@ -13,7 +13,7 @@ sections:
         filename: logo-in-website.png
       cta:
         label: '**Subscribe**'
-        url: example.com
+        url: https://example.com
       cta_alt:
         label: Make a Request
         url: https://docs.google.com/forms/d/e/1FAIpQLSc9zGAn356-OcOvZ19PWAkMEsnyEOkG-NtaK8t-QRmmJ8Y1cA/viewform?usp=sf_link
