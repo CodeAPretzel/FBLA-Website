@@ -8,7 +8,7 @@ social:
       header: false
     icon_pack: fab
     icon: instagram
-    link: example.com
+    link: https://www.instagram.com/marionville_fbla/
   - display:
       header: false
     icon_pack: fab
