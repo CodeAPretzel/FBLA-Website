@@ -30,12 +30,14 @@ sections:
         **Want to subscribe to our newsletter or make a request?**
 
         <button class="button" style="
-        background-color: #ffffff; 
-        color: #104d92; 
-        text-decoration: none; 
-        padding:  12px 20px; 
-        border-radius: 5px; 
-        font-weight: bold;">
+        background-color: #ffffff;
+        border-color: #ffffff;
+        color: #104d92;
+        text-decoration: none;
+        padding:  4px 42px;
+        border-radius: 5px;
+        font-weight: 600;
+        font-size: 24px">
           Some Text
         </button>
 
