@@ -16,7 +16,7 @@ sections:
         url: https://example.com
       cta_alt:
         label: Make a Request
-        url: https://docs.google.com/forms/d/e/1FAIpQLSc9zGAn356-OcOvZ19PWAkMEsnyEOkG-NtaK8t-QRmmJ8Y1cA/viewform?usp=sf_link
+        url: <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5377f884b39744f66a69c35ba/70387efe9d8aa0f86d01695ec.js");</script>
       cta_note:
         label: >-
     
