@@ -28,6 +28,21 @@ sections:
         <br>
 
         **Want to subscribe to our newsletter or make a request?**
+        
+        <style>
+          .button {
+            background-color: #ffffff;
+	          color: #104d92;
+		        text-decoration: none;
+		        padding:  12px 20px;
+		        border-radius: 5px;
+		        font-weight: bold;
+          }
+        </style>
+
+        <button class="button">
+          Some Text
+        </button>
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
