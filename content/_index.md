@@ -29,16 +29,16 @@ sections:
 
         **Want to subscribe to our newsletter or make a request?**
 
-        <style>
-          .button {
-            background-color: #ffffff;
-	        	color: #104d92;
-		        text-decoration: none;
-		        padding:  12px 20px;
-		        border-radius: 5px;
-		        font-weight: bold;
-          }
-        </style>
+        #<style>
+        #  .button {
+        #    background-color: #ffffff;
+	      #    color: #104d92;
+		    #    text-decoration: none;
+		    #    padding:  12px 20px;
+		    #    border-radius: 5px;
+		    #    font-weight: bold;
+        #  }
+        #</style>
 
         #<button class="button">
         #  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.#arentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/#5377f884b39744f66a69c35ba/70387efe9d8aa0f86d01695ec.js");</script>
