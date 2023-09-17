@@ -159,7 +159,7 @@ sections:
       text: |-
         {{< gallery album="fbla-gallery" >}}
     design:
-      columns: '2'
+      columns: '1'
   
   # Put Publications you Want to Show First
   
