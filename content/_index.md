@@ -40,7 +40,13 @@ sections:
           }
         </style>
 
-        <button class="button">
+        <button class="button" style="
+        background-color: #ffffff; 
+        color: #104d92; 
+        text-decoration: none; 
+        padding:  12px 20px; 
+        border-radius: 5px; 
+        font-weight: bold;">
           Some Text
         </button>
 
