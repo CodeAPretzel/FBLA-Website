@@ -100,7 +100,10 @@ sections:
     content:
       title: FBLA Posts
       subtitle: ''
-      text: ''
+      text: |-
+        {{% callout note %}}
+          Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -182,28 +185,37 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  <!-- test -->- block: tag_cloud
-   content:
-     title: Popular Topics
-   design:
-     columns: '2'
+  
+  # Talks and Discussions | Slides
+  
+  #- block: collection
+  # id: talks
+  #  content:
+  #    title: Recent & Upcoming Talks
+  #    filters:
+  #      folders:
+  #        - event
+  #  design:
+  #    columns: '2'
+  #    view: compact
+
+  # List Popular Topics
+
+  #- block: tag_cloud
+  #content:
+  #   title: Popular Topics
+  # design:
+  #   columns: '2'
+
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-    
+
+      # Commented Out Additional Contacts:
+
       # Contact (add or remove contact options)
       # email: kallen@marionville.us
       # phone: (417) 403-4341
