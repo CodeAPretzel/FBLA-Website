@@ -192,11 +192,11 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  <!-- test -->- block: tag_cloud
+   content:
+     title: Popular Topics
+   design:
+     columns: '2'
   - block: contact
     id: contact
     content:
@@ -241,7 +241,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
