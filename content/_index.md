@@ -13,7 +13,7 @@ sections:
         filename: logo-in-website.png
       cta:
         label: '**Subscribe**'
-        url: example.com
+        url: http://eepurl.com/izlBpk
       cta_alt:
         label: Make a Request
         url: https://docs.google.com/forms/d/e/1FAIpQLSc9zGAn356-OcOvZ19PWAkMEsnyEOkG-NtaK8t-QRmmJ8Y1cA/viewform?usp=sf_link
@@ -28,22 +28,6 @@ sections:
         <br>
 
         **Want to subscribe to our newsletter or make a request?**
-
-        <button onclick="subscription()" style="
-        background-color: #ffffff;
-        border: none;
-        border-radius: 5px;
-        color: #104d92; 
-        text-decoration: none; 
-        padding:  6px 46px;  
-        font-weight: 600;
-        font-size: 24px;">
-          Subscribe
-        </button>
-
-        <script id="mcjs">
-        function subscription(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5377f884b39744f66a69c35ba/70387efe9d8aa0f86d01695ec.js");
-        </script>
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
