@@ -29,7 +29,7 @@ sections:
 
         **Want to subscribe to our newsletter or make a request?**
 
-        <button onclick="subscription()" style="
+        <button style="
         background-color: #ffffff;
         border: none;
         border-radius: 5px;
@@ -39,11 +39,8 @@ sections:
         font-weight: 600;
         font-size: 24px;">
           Subscribe
+        <script>alert(1)</script>
         </button>
-
-        <script id="mcjs">
-          alert(1);
-        </script>
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
