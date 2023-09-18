@@ -29,17 +29,17 @@ sections:
 
         **Want to subscribe to our newsletter or make a request?**
 
-        <button class="button" style="
+        <a style="
         background-color: #ffffff;
-        border-color: #ffffff;
-        color: #104d92;
-        text-decoration: none;
-        padding:  4px 42px;
+        border: none;
         border-radius: 5px;
+        color: #104d92; 
+        text-decoration: none; 
+        padding:  6px 44px;  
         font-weight: 600;
-        font-size: 24px">
+        font-size: 24px;">
           Some Text
-        </button>
+        </a>
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
