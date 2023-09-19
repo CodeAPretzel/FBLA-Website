@@ -35,7 +35,7 @@ font-size: 17px !important;
 color: #ffffff !important;
         }
 [data-custom-class='body_text'], [data-custom-class='body_text'] * {
-          color: #595959 !important;
+          color: #ffffff !important;
 font-size: 14px !important;
 font-family: Arial !important;
         }
