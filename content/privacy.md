@@ -40,7 +40,7 @@ font-size: 14px !important;
 font-family: Arial !important;
         }
 [data-custom-class='link'], [data-custom-class='link'] * {
-          color: #3030F1 !important;
+          color: #3b54f5 !important;
 font-size: 14px !important;
 font-family: Arial !important;
 word-break: break-word !important;
