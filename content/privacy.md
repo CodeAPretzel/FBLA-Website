@@ -2,7 +2,7 @@
 draft: false
 editable: false
 title: "-"
-summary: S﻿ite's Permission to use your Contact Perferences
+summary: S﻿ite's Permission to use your Contact Preferences
 header:
   caption: ""
   image: ""
@@ -17,22 +17,22 @@ share: false
 [data-custom-class='title'], [data-custom-class='title'] * {
           font-family: Arial !important;
 font-size: 26px !important;
-color: #000000 !important;
+color: #ffffff !important;
         }
 [data-custom-class='subtitle'], [data-custom-class='subtitle'] * {
           font-family: Arial !important;
-color: #595959 !important;
+color: #ffffff !important;
 font-size: 14px !important;
         }
 [data-custom-class='heading_1'], [data-custom-class='heading_1'] * {
           font-family: Arial !important;
 font-size: 19px !important;
-color: #000000 !important;
+color: #ffffff !important;
         }
 [data-custom-class='heading_2'], [data-custom-class='heading_2'] * {
           font-family: Arial !important;
 font-size: 17px !important;
-color: #000000 !important;
+color: #ffffff !important;
         }
 [data-custom-class='body_text'], [data-custom-class='body_text'] * {
           color: #595959 !important;
