@@ -19,7 +19,7 @@ links:
     name: Follow
     icon_pack: fab
     icon: snapchat
-event: Marionville Blood Drive - Fall
+event: Blood Drive Link
 event_url: https://www.marionville.us/
 publishDate: 2023-09-18T23:43:07.804Z
 draft: false
