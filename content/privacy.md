@@ -1,7 +1,7 @@
 ---
 draft: false
 editable: false
-title: "-"
+title: Privacy Policy
 summary: S﻿ite's Permission to use your Contact Preferences
 header:
   caption: ""
@@ -46,7 +46,6 @@ font-family: Arial !important;
 word-break: break-word !important;
         }
 </style>
-<div><strong><span style="font-size: 26px;"><span data-custom-class="title"><bdt class="block-component"></bdt><bdt class="question">PRIVACY POLICY</bdt><bdt class="statement-end-if-in-editor"></bdt></span></span></strong></div>
 <div><br></div>
 <div><span style="color: rgb(127, 127, 127);"><strong><span style="font-size: 15px;"><span data-custom-class="subtitle">Last updated <bdt class="question">September 18, 2023</bdt></span></span></strong></span></div>
 <div><br></div>
