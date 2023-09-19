@@ -72,29 +72,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: =title field=
+        - title: Marionville Blood Drive
           company: Marionville FBLA
-          company_url: 'https://example.com'
-          company_logo: null-icon
-          location: =location field=
-          date_start: '2023-09-01'
+          company_url: 'https://marionville-fbla.netlify.app/talk/marionville-blood-drive-fall/'
+          company_logo: blood-droplet
+          location: Marionville High School Gym
+          date_start: '2023-11-15'
           date_end: ''
           description: |2-
-              ~ Description Field:
+              ~ Description:
 
-              * Supports syntaxing.
-              * Supports basic rich text.
-        - title: =title field=
-          company: Marionville FBLA
-          company_url: 'https://example.com'
-          company_logo: null-icon
-          location: =location field=
-          date_start: '2023-09-01'
-          date_end: '2023-09-02'
-          description: |2-
-              ~ Description Field:
+              * Donate Blood to the Community!
+              * Earn a T-Shirt!
+              * Get Free Snacks!
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: posts
     content:
