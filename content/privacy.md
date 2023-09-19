@@ -1,7 +1,7 @@
 ---
 draft: false
 editable: false
-title: Privacy Policy
+title: "-"
 summary: S﻿ite's Permission to use your Contact Perferences
 header:
   caption: ""
