@@ -35,4 +35,4 @@ image:
 ---
 W﻿hen you donate, you receive a free T-shirt as well as a chance to win a free gift card!
 
-<﻿img src="https://www.ozarkradionews.com/ozarkradionews/wp-content/uploads/2021/10/october27blooddrive--scaled.jpg" alt="Shirt">
+![Shirt](https://www.ozarkradionews.com/ozarkradionews/wp-content/uploads/2021/10/october27blooddrive--scaled.jpg)
