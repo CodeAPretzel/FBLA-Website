@@ -45,6 +45,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: marionville-fbla
   - block: features
+    id: newsletter
     content:
       title: Monthly Newsletter <br><br>
       items:
@@ -62,6 +63,7 @@ sections:
           icon_pack:
   - block: experience
     content:
+    id: events
       title: Dates for Events
       #   Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -78,7 +80,7 @@ sections:
           company_logo: blood-droplet
           location: Marionville High School Gym
           date_start: '2023-11-15'
-          date_end: ''
+          date_end: '2023-11-15'
           description: |2-
               ~ Description:
 
@@ -145,6 +147,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
