@@ -62,8 +62,8 @@ sections:
           icon:
           icon_pack:
   - block: experience
-    content:
     id: events
+    content:
       title: Dates for Events
       #   Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
