@@ -3,6 +3,7 @@ title: Marionville FBLA
 role: ""
 avatar_filename: avatar.png
 bio: Marionville High School FBLA Organization
+interests: []
 social:
   - display:
       header: false
@@ -26,8 +27,6 @@ FBLA, or *Future Business Leaders of America*, is a dynamic organization dedicat
 
 ## Planned Events
 
-1. [{﻿site}](https://example.com)
-2. [{﻿site}](https://example.com)
-3. [{﻿site}](https://example.com)
+* [Marionville Blood Drive - Fall](https://marionville-fbla.netlify.app/talk/marionville-blood-drive-fall/)
 
 <!--EndFragment-->
