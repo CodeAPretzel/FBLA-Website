@@ -33,4 +33,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-T﻿his is an example of the details.
+W﻿hen you donate, you receive a free T-shirt as well as a chance to win a free gift card!
+
+<﻿img src="https://www.ozarkradionews.com/ozarkradionews/wp-content/uploads/2021/10/october27blooddrive--scaled.jpg" alt="Shirt"
