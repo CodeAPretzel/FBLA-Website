@@ -27,7 +27,7 @@ featured: false
 tags:
   - Community
 categories:
-  - Event
+  - Events
 image:
   filename: community-blood-center-logo-for-jbo.png
   focal_point: Smart
