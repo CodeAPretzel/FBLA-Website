@@ -82,7 +82,7 @@ sections:
           date_start: '2023-11-15'
           date_end: '2023-11-15'
           description: |2-
-              ~ Description:
+              About:
 
               * Donate Blood to the Community!
               * Earn a T-Shirt!
@@ -96,7 +96,7 @@ sections:
       subtitle: ''
       text: |-
         {{% callout note %}}
-          Quickly discover relevant content by [filtering posts](./posts/).
+          Discover all of our content by [accessing all posts](./posts/).
         {{% /callout %}}
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
@@ -149,9 +149,11 @@ sections:
   - block: markdown
     id: gallery
     content:
-      title: Gallery
+      title: <-    FBLA Pictures    ->
       subtitle: ''
       text: |-
+        <br>
+        <br>
         {{< gallery album="fbla-gallery" >}}
     design:
       columns: '1'
