@@ -17,25 +17,22 @@ share: false
 [data-custom-class='title'], [data-custom-class='title'] * {
           font-family: Arial !important;
 font-size: 26px !important;
-color: #ffffff !important;
         }
 [data-custom-class='subtitle'], [data-custom-class='subtitle'] * {
           font-family: Arial !important;
-color: #ffffff !important;
 font-size: 14px !important;
         }
 [data-custom-class='heading_1'], [data-custom-class='heading_1'] * {
           font-family: Arial !important;
 font-size: 19px !important;
-color: #ffffff !important;
+
         }
 [data-custom-class='heading_2'], [data-custom-class='heading_2'] * {
           font-family: Arial !important;
 font-size: 17px !important;
-color: #ffffff !important;
+
         }
 [data-custom-class='body_text'], [data-custom-class='body_text'] * {
-          color: #ffffff !important;
 font-size: 14px !important;
 font-family: Arial !important;
         }
@@ -46,6 +43,7 @@ font-family: Arial !important;
 word-break: break-word !important;
         }
 </style>
+
 <div><br></div>
 <div><span style="color: rgb(127, 127, 127);"><strong><span style="font-size: 15px;"><span data-custom-class="subtitle">Last updated <bdt class="question">September 18, 2023</bdt></span></span></strong></span></div>
 <div><br></div>
@@ -69,8 +67,3 @@ word-break: break-word !important;
     </style>
       </div>
       </div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
-
-
-
-
-
