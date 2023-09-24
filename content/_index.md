@@ -51,12 +51,12 @@ sections:
       items:
         - name:
           description:
-          icon: blood-droplet
+          icon:
           icon_pack:
         - name: October Newsletter
           description: Our FBLA school organization believes in recognizing the outstanding achievements of our members. Each month, we curate a special newsletter highlighting deserving individuals who have excelled in their commitment to business and leadership. This initiative aims to celebrate their hard work, dedication, and contributions within our community, fostering a culture of appreciation and motivation for all our members.
-          icon: r-project
-          icon_pack: fab
+          icon: blood-droplet
+          icon_pack:
         - name:
           description:
           icon:
