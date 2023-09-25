@@ -153,7 +153,7 @@ sections:
   - block: markdown
     id: gallery
     content:
-      title: <-    FBLA Pictures    ->
+      title: FBLA Pictures
       subtitle: ''
       text: |-
         <br>
