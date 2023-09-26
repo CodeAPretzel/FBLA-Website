@@ -50,8 +50,8 @@ sections:
       title: Marionville FBLA Officers <br><br>
       count: 0
       filters:
-        folder: 
-          - slides/example
+        folders: 
+          - publication
   - block: experience
     id: events
     content:
