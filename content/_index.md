@@ -51,7 +51,7 @@ sections:
       count: 0
       filters:
         folder: 
-          - slides
+          - slides/example
   - block: experience
     id: events
     content:
