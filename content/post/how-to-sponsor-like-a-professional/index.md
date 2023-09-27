@@ -8,7 +8,7 @@ summary: |-
 
   G﻿ood news! We've set a guide to help with you and your sponsoring needs!
 draft: false
-featured: false
+featured: true
 tags:
   - Resource
 image:
