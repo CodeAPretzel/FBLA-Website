@@ -23,9 +23,8 @@ This FBLA website empowers us to communicate with our members and our community 
 2. [Newsletter](https://marionville-fbla.netlify.app/#newsletter)
 3. [Events](https://marionville-fbla.netlify.app/#events)
 4. [Posts](https://marionville-fbla.netlify.app/#posts)
-5. [Projects](https://marionville-fbla.netlify.app/#projects)
-6. [Gallery](https://marionville-fbla.netlify.app/#gallery)
-7. [Contact](https://marionville-fbla.netlify.app/#contact)
+5. [Gallery](https://marionville-fbla.netlify.app/#gallery)
+6. [Contact](https://marionville-fbla.netlify.app/#contact)
 
 <br>
 
