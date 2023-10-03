@@ -1,5 +1,5 @@
 ---
-title: President - Katlin Carr
+title: VP of {title} - Lauren Medlin
 publication_types:
   - "0"
 draft: false
@@ -8,7 +8,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Administers and maintains the club and officers.
+summary: {officer-position}
 date: 2023-10-03T02:53:46.170Z
 ---
 T﻿his is a test \*details\*.
