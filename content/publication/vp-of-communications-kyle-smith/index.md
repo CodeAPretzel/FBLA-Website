@@ -6,8 +6,8 @@ publication_types:
 authors: []
 author_notes: []
 doi: ""
-publication: test *publication - optional*
-publication_short: test *publication - abbreviated*
+publication: ""
+publication_short: ""
 abstract: As a member of FBLA and its communications, I'm responsible for
   relaying information, events, and topics to the community and our Marionville
   FBLA members.
@@ -20,7 +20,8 @@ image:
   filename: fbla_verticallogo_reverse.jpg
   focal_point: Smart
   preview_only: false
-summary: This is a test *summary*.
+summary: |
+  Responsible for everything communications.
 date: 2023-09-26T02:37:03.760Z
 ---
 T﻿his is a test \*details\*.
