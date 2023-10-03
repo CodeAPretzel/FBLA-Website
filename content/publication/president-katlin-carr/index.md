@@ -5,9 +5,10 @@ publication_types:
 draft: false
 featured: false
 image:
-  filename: https://www.fbla.org/media/2022/05/FBLA_VerticalLogo_reverse.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
+summary: Administers and maintains the club and officers.
 date: 2023-10-03T02:39:34.106Z
 ---
-N﻿one
+T﻿his is a test \*details\*.
