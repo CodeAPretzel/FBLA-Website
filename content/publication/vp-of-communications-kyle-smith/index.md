@@ -17,7 +17,7 @@ tags:
   - Officers
 slides: ""
 image:
-  filename: fbla_verticallogo_reverse.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 summary: |
