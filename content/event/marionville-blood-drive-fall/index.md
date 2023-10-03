@@ -19,8 +19,8 @@ links:
     name: Follow
     icon_pack: fab
     icon: snapchat
-event: Blood Drive Link
-event_url: https://www.marionville.us/
+event: Blood Drive
+event_url: https://en.wiktionary.org/wiki/blood_drive
 publishDate: 2023-09-18T23:43:07.804Z
 draft: false
 featured: false
