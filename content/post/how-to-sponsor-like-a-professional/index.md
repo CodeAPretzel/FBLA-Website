@@ -42,4 +42,4 @@ Be﻿low is a sponsorship document that details:
 
 
 
-[F﻿BLA Sponship Form](https://github.com/CodeAPretzel/FBLA-Website/raw/main/assets/media/fbla-sponsorship-form.png)
+[F﻿BLA Sponship Form](https://drive.google.com/file/d/1WYqxNKTrkYN5t8t6rakCwGswKH4qJx8x/view?usp=sharing)
