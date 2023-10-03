@@ -21,7 +21,7 @@ image:
   focal_point: Smart
   preview_only: false
 summary: |
-  Responsible for everything communications.
+  Responsible for all communications.
 date: 2023-09-26T02:37:03.760Z
 ---
 T﻿his is a test \*details\*.
