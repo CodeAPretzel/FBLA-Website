@@ -5,7 +5,7 @@ publication_types:
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: fbla-katlin-carr-pic.jpg
   focal_point: Smart
   preview_only: false
 summary: Administers and maintains the club and officers.
