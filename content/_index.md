@@ -87,7 +87,7 @@ sections:
       subtitle: ''
       text: |-
         {{% callout note %}}
-          Discover all of our content by [accessing all posts](./posts/).
+          Discover all of our content by [accessing all posts](./post/).
         {{% /callout %}}
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
