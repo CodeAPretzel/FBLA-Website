@@ -8,7 +8,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Lead person for maintaining the club.
+summary: Lead person for maintaining FBLA.
 date: 2023-10-04T21:34:37.083Z
 ---
 ![](fbla-krystal-allen-pic.jpeg)
