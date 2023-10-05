@@ -8,7 +8,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-summary: Administers and maintains the club and officers.
+summary: Administers and maintains FBLA and its officers.
 date: 2023-10-03T02:59:00.403Z
 ---
 ![](fbla-katlin-carr-pic.jpg)
