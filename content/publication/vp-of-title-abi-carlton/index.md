@@ -9,6 +9,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+summary: Responsible for member's engagement in FBLA.
 date: 2023-10-03T02:51:36.524Z
 ---
 ![](fbla-abigail-carlton-pic.jpg)
