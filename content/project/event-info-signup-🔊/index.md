@@ -1,5 +1,5 @@
 ---
-title: Event Info & Signup 🔊
+title: FBLA Event Info & Signup 🔊
 date: 2023-10-06T14:38:11.436Z
 summary: L﻿inks for FBLA Events and Signups.
 draft: false
