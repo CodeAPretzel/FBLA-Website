@@ -17,7 +17,7 @@ L﻿ink for Event Information:
 
 [https://www.fbla.org/​divisions/fbla/fbla-​competitive-events/](https://www.fbla.org/divisions/fbla/fbla-competitive-events/)
 
-<﻿br>
+
 
 L﻿ink for Event Signup:
 
