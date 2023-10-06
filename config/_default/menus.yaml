@@ -18,9 +18,9 @@ main:
     weight: 40
 
   # Commented Out Projects
-  #- name: Projects
-  #  url: '#projects'
-  #  weight: 50
+  - name: Projects
+    url: '#projects'
+    weight: 50
   
   - name: Gallery
     url: '#gallery'
