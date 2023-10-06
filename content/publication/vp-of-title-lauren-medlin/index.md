@@ -13,4 +13,4 @@ date: 2023-10-03T02:53:46.170Z
 ---
 ![](fbla-lauren-medlin-pic.jpg)
 
-Lauren Medlin runs our social media on FBLA's Instagram and Snapchat. With a talented fashion of graphic design, she brings the events we do in FBLA to life for the public and community. As a senior now, she has dedicated her time in highschool to benefit FBLA and its members and strives to achieve her goals in life.
+Hello! My name is Lauren Medlin, and I am this year’s Vice President of Social Media. I joined FBLA as a freshman for the fun of it, but I have learned so much throughout the years! Along with being in FBLA, I also participate in FCA, Student Council, National Honors Society, volleyball, and track. I am currently a senior, and I plan to attend Evangel University after I graduate. I hope everyone loves FBLA as much as I do and can learn more about how to be a business leader!
