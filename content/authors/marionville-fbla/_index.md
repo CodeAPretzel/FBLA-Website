@@ -28,8 +28,6 @@ social:
 organizations:
   - name: Marionville's Website
     url: https://www.marionville.us/
-education:
-  courses: []
 email: kallen@marionville.us
 superuser: true
 ---
