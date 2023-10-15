@@ -28,6 +28,8 @@ social:
 organizations:
   - name: Marionville's Website
     url: https://www.marionville.us/
+education:
+  courses: []
 email: kallen@marionville.us
 superuser: true
 ---
@@ -37,6 +39,6 @@ FBLA, or *Future Business Leaders of America*, is a dynamic organization dedicat
 
 ## Planned Events
 
-* [Marionville Blood Drive - Fall](https://marionville-fbla.netlify.app/talk/marionville-blood-drive-fall/)
+* [Marionville Blood Drive - Fall](/talk/marionville-blood-drive-fall/)
 
 <!--EndFragment-->
