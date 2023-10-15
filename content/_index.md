@@ -67,7 +67,7 @@ sections:
       items:
         - title: Marionville Blood Drive
           company: Marionville FBLA
-          company_url: 'https://marionville-fbla.netlify.app/talk/marionville-blood-drive-fall/'
+          company_url: '/talk/marionville-blood-drive-fall/'
           company_logo: blood-droplet
           location: Marionville High School Gym
           date_start: '2023-11-15'
