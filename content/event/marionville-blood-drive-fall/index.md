@@ -19,6 +19,14 @@ links:
     name: Follow
     icon_pack: fab
     icon: snapchat
+  - url: https://www.tiktok.com/@marionville.fbla
+    icon_pack: fab
+    icon: tiktok
+    name: Follow
+  - name: Follow
+    icon_pack: fab
+    icon: facebook
+    url: https://www.facebook.com/profile.php?id=100086585220209&mibextid=LQQJ4d
 event: Blood Drive
 event_url: https://en.wiktionary.org/wiki/blood_drive
 publishDate: 2023-09-18T23:43:07.804Z
