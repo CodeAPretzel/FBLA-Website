@@ -8,7 +8,7 @@ abstract: Marionville FBLA will be hosting its dual annual blood drive at the
   href="https://www.redcrossblood.org/donate-blood/blood-donation-process/before-during-after.html">link</a>.
 location: Marionville High School Gym
 date: 2023-11-15T14:00:14.927Z
-date_end: 2023-11-15T08:00:00.000Z
+date_end: 2023-11-15T20:00:00.000Z
 all_day: false
 links:
   - icon_pack: fab
