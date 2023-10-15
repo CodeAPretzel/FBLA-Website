@@ -149,58 +149,6 @@ sections:
         {{< gallery album="fbla-gallery" >}}
     design:
       columns: '1'
-  
-  # Put Publications you Want to Show First
-  
-  #- block: collection
-  #  id: featured
-  #  content:
-  #    title: Featured Publications
-  #    filters:
-  #      folders:
-  #        - publication
-  #      featured_only: true
-  #  design:
-  #    columns: '2'
-  #    view: card
-  
-  # Put Recent Publications
-  
-  #- block: collection
-  #  content:
-  #    title: Recent Publications
-  #   text: |-
-  #      {{% callout note %}}
-  #      Quickly discover relevant content by [filtering publications](./publication/).
-  #      {{% /callout %}}
-  #    filters:
-  #      folders:
-  #        - publication
-  #      exclude_featured: true
-  #  design:
-  #    columns: '2'
-  #    view: citation
-  
-  # Talks and Discussions | Slides
-  
-  #- block: collection
-  # id: talks
-  #  content:
-  #    title: Recent & Upcoming Talks
-  #    filters:
-  #      folders:
-  #        - event
-  #  design:
-  #    columns: '2'
-  #    view: compact
-
-  # List Popular Topics
-
-  #- block: tag_cloud
-  #content:
-  #   title: Popular Topics
-  # design:
-  #   columns: '2'
 
   - block: contact
     id: contact
@@ -209,27 +157,8 @@ sections:
       subtitle:
       text: |-
 
-      # Commented Out Additional Contacts:
+##############
 
-      # Contact (add or remove contact options)
-      # email: kallen@marionville.us
-      # phone: (417) 403-4341
-    
-      # Below are commented out addresses, contact hours, and appointment URL:
-    
-      # appointment_url: 'https://calendly.com'
-      # address:
-      # street: 450 Serra Mall
-      # city: Stanford
-      # region: CA
-      # postcode: '94305'
-      # country: United States
-      # country_code: US
-      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      # office_hours:
-      #  - 'Monday 10:00 to 13:00'
-      #  - 'Wednesday 09:00 to 10:00'
-    
       contact_links:
         - icon: instagram
           icon_pack: fab
@@ -239,6 +168,14 @@ sections:
           icon_pack: fab
           name: Snapchat
           link: 'example.com'
+        - icon: facebook
+          icon_pack: fab
+          name: Facebook
+          link: 'https://www.facebook.com/profile.php?id=100086585220209&mibextid=LQQJ4d'
+        - icon: tiktok
+          icon_pack: fab
+          name: Tiktok
+          link: 'https://www.tiktok.com/@marionville.fbla'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
