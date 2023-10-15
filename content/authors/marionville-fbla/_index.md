@@ -15,9 +15,21 @@ social:
     icon_pack: fab
     icon: snapchat
     link: example.com
+  - display:
+      header: false
+    link: https://www.facebook.com/profile.php?id=100086585220209&mibextid=LQQJ4d
+    icon_pack: fab
+    icon: facebook
+  - display:
+      header: false
+    link: https://www.tiktok.com/@marionville.fbla
+    icon_pack: fab
+    icon: tiktok
 organizations:
   - name: Marionville's Website
     url: https://www.marionville.us/
+education:
+  courses: []
 email: kallen@marionville.us
 superuser: true
 ---
