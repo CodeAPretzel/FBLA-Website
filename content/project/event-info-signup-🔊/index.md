@@ -9,7 +9,7 @@ tags:
 categories:
   - Events
 image:
-  filename: fbla-events-pic.jpg
+  filename: fbla-events-pic.png
   focal_point: Smart
   preview_only: false
 ---
