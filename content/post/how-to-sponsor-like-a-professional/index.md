@@ -1,6 +1,6 @@
 ---
 title: How to Sponsor like a Professional!
-subtitle: GETRIDOF
+subtitle: ""
 date: 2023-09-27T02:25:32.182Z
 summary: |-
   Are you h﻿aving trouble reaching businesses for sponsoring?
