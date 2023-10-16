@@ -27,5 +27,5 @@
   [plugins.inputs]
     exclude = [
       # By file Path
-      './content/admin/index.md
+      './admin/index.md
     ]
