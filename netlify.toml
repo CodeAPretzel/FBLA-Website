@@ -23,9 +23,3 @@
 
 [[plugins]]
   package = "@netlify/plugin-sitemap"
-
-  [plugins.inputs]
-    exclude = [
-      # By file Path
-      './admin/index.md
-    ]
