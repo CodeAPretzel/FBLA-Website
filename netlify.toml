@@ -20,3 +20,6 @@
   origin = "config"
   [plugins.inputs]
     debug = true
+
+[[plugins]]
+  package = "@netlify/plugin-sitemap"
