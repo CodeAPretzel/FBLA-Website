@@ -28,7 +28,7 @@ links:
     icon: facebook
     url: https://www.facebook.com/profile.php?id=100086585220209&mibextid=LQQJ4d
 event: Blood Drive
-event_url: https://en.wiktionary.org/wiki/blood_drive
+event_url: https://docs.google.com/forms/d/e/1FAIpQLSe1F5f-In-izW5BCbzmuiRSuI4nZUnZEZfuD-JmEU34q-0vdw/viewform?usp=sf_link
 publishDate: 2023-09-18T23:43:07.804Z
 draft: false
 featured: false
@@ -41,6 +41,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-W﻿hen you donate, you receive a free T-shirt as well as a chance to win a free gift card!
+W﻿hen you donate, you receive a free T-shirt and a chance to win a free gift card!
 
-![Shirt](https://www.ozarkradionews.com/ozarkradionews/wp-content/uploads/2021/10/october27blooddrive--scaled.jpg)
+
+
+S﻿ign-up with the link here:
+
+[B﻿lood Drive Sign-up Form](https://docs.google.com/forms/d/e/1FAIpQLSe1F5f-In-izW5BCbzmuiRSuI4nZUnZEZfuD-JmEU34q-0vdw/viewform?usp=sf_link)
+
+![Shirt](marionville_high_school_blood_drive_poster.jpg)
