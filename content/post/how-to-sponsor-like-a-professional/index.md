@@ -11,7 +11,7 @@ summary: |-
 draft: false
 featured: true
 tags:
-  - Resource
+  - Resources
 image:
   filename: 360_f_319569359_1xkjom88cpkocoypkqedp3krihwkwhmn.jpg
   focal_point: Smart
