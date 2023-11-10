@@ -53,9 +53,9 @@ sections:
         folders: 
           - publication
   - block: experience
-    id: events
+    id: upcoming
     content:
-      title: Dates for Events
+      title: Upcoming Activities
       #   Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -113,9 +113,9 @@ sections:
 
   # Uncomment this if we have any projects we want to display.      
   - block: portfolio
-    id: projects
+    id: events
     content:
-      title: Projects
+      title: Events
       filters:
         folders:
           - project

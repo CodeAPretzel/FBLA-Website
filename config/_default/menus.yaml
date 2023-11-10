@@ -10,16 +10,16 @@ main:
   - name: Officers
     url: '#officers'
     weight: 20
-  - name: Events
-    url: '#events'
+  - name: Upcoming
+    url: '#upcoming'
     weight: 30
   - name: Posts
     url: '#posts'
     weight: 40
 
   # Commented Out Projects
-  - name: Projects
-    url: '#projects'
+  - name: Events
+    url: '#events'
     weight: 50
   
   - name: Gallery
