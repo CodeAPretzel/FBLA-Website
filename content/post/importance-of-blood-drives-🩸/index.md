@@ -18,5 +18,5 @@ Beyond the immediate medical impact, donating blood fosters a sense of community
 <br>
 
 <video>
-    <source src="https://video.xx.fbcdn.net/v/t42.1790-2/273934132_3266001143685871_3461943644593841853_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=55d0d3&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=VF0jcFnwMf4AX_zDtb-&_nc_rml=0&_nc_ht=video-den4-1.xx&oh=00_AfBe1vxwHVa2n1_Vpx1romuxBn0th-0kIdZZ3nX8Ma5r_g&oe=65539EA1">
+    <source src="https://video.xx.fbcdn.net/v/t42.1790-2/273934132_3266001143685871_3461943644593841853_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=55d0d3&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=VF0jcFnwMf4AX_zDtb-&_nc_rml=0&_nc_ht=video-den4-1.xx&oh=00_AfBe1vxwHVa2n1_Vpx1romuxBn0th-0kIdZZ3nX8Ma5r_g&oe=65539EA1" type="video/mp4" playsinline="true" preload="metadata">
 </video>
