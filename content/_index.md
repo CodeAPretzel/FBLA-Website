@@ -51,7 +51,7 @@ sections:
       count: 0
       filters:
         folders: 
-          - publication
+          - officers
   - block: experience
     id: upcoming
     content:
