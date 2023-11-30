@@ -7,7 +7,7 @@ featured: true
 tags:
   - Entertainment
 image:
-  filename: christmas-animation.gif
+  filename: website-images-christmas-poems.jpg
   focal_point: Smart
   preview_only: false
 ---
@@ -30,6 +30,7 @@ image:
   </style>
 
 <h1>Get a Christmas Poem!</h1>
+ ﻿ <br>
   <button onclick="getRandomPoem()">CLICK HERE</button>
  ﻿ <br>
  ﻿ <br>
@@ -38,14 +39,20 @@ image:
 
   <script>
     const poems = [
-      `Snowflakes dancing in the air,
-Landing softly everywhere,
-Blanketing the world in white,
-A wondrous and magical sight.`,
-      `Christmas bells in the air,
-Ringing out with love and care,
-Joyful songs fill the night,
-Bringing warmth and pure delight.`,
+      `Setting up the nativity is a holiday tradition,
+And each and every figure has its own special position.
+The angel sits up on the roof, and the wise men go beneath.
+Joseph and Mary go in the middle, surrounded by cows and sheep.
+Baby Jesus in his manger always sits right in the center,
+So everyone can admire him in all his glory and splendor.`,
+      `Each year when Christmas rolls around
+I get my nutcracker out.
+And each time that he cracks a nut,
+it makes me want to shout,
+"Oh thank you Mr. Nutcracker for
+Shelling my nuts for me.
+Now all I need is a glass of eggnog,
+and I'll eat them by my Christmas tree!"`,
  ﻿     `Copy this in your search bar:
 
 https://docs.google.com/forms/d/e/1FAIpQLSewOaDbpc01h--dFwFSdwMb1gPG5iUtw-gWZZw0YitDXjCD-A/viewform?usp=sf_link`
