@@ -178,24 +178,23 @@ sections:
           icon_pack: fab
           name: Tiktok
           link: 'https://www.tiktok.com/@marionville.fbla'
-      content:
-        text: |-
-          <style>
-            /* Styles for the image */
-            #transparentImg {
-              opacity: 0.7;
-              transition: opacity 0.3s ease-in-out;
-              cursor: pointer;
-            }
+      text: |-
+        <style>
+          /* Styles for the image */
+          #transparentImg {
+            opacity: 0.7;
+            transition: opacity 0.3s ease-in-out;
+            cursor: pointer;
+          }
 
-            #transparentImg:hover {
-              opacity: 1;
-            }
-          </style>
+          #transparentImg:hover {
+            opacity: 1;
+          }
+        </style>
 
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLScGE2JJ97g_U24mERp4Bp3O8I7armahJ_estqGqus9rC-5pfg/viewform?usp=sf_link" target="_blank">
-            <img id="transparentImg" src="../assets/media/website-image-christmas-challenge-1.png" alt="Christmas Game!">
-          </a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScGE2JJ97g_U24mERp4Bp3O8I7armahJ_estqGqus9rC-5pfg/viewform?usp=sf_link" target="_blank">
+          <img id="transparentImg" src="../assets/media/website-image-christmas-challenge-1.png" alt="Christmas Game!">
+        </a>
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
