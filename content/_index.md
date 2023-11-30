@@ -71,6 +71,7 @@ sections:
           company_logo: fbla-christmas-party
           location: Marionville First Baptist Church
           date_start: '2023-12-8'
+          date_end: '2023-12-9'
           description: |2-
               About:
 
