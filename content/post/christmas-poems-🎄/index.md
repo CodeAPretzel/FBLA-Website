@@ -18,7 +18,6 @@ image:
       border: 2px solid black;
       border-radius: 5px;
       padding: 10px 40px;
-      font-family: serif;
       font-size: 16px;
       cursor: pointer;
       transition: background-color 0.3s, color 0.3s;
