@@ -70,8 +70,8 @@ sections:
           # company_url: '/talk/marionville-blood-drive-fall/'
           company_logo: fbla-christmas-party
           location: Marionville First Baptist Church
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2023-12-08'
+          date_end: '2023-12-08'
           description: |2-
               About:
 
