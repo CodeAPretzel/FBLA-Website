@@ -9,7 +9,7 @@ tags:
 categories:
   - Resources
 image:
-  filename: fbla-master-pic-23_24.jpg
+  filename: fbla-master-pic-23_24.png
   focal_point: Smart
   preview_only: false
 ---
