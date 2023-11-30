@@ -38,16 +38,17 @@ image:
 
   <script>
     const poems = [
-      "Snowflakes dancing in the air,
+      `Snowflakes dancing in the air,
 Landing softly everywhere,
- 
 Blanketing the world in white,
-A wondrous and magical sight.",
-      "Christmas bells in the air,
+A wondrous and magical sight.`,
+      `Christmas bells in the air,
 Ringing out with love and care,
 Joyful songs fill the night,
-Bringing warmth and pure delight.",
- ﻿     "<insert-website>"
+Bringing warmth and pure delight.`,
+ ﻿     `Copy this in your search bar:
+
+https://docs.google.com/forms/d/e/1FAIpQLSewOaDbpc01h--dFwFSdwMb1gPG5iUtw-gWZZw0YitDXjCD-A/viewform?usp=sf_link`
     ];
 
     function getRandomPoem() {
