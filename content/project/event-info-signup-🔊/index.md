@@ -1,5 +1,5 @@
 ---
-title: FBLA Event Info & Signup 🔊
+title: FBLA Event Info & Dates 🔊
 date: 2023-10-06T14:38:11.436Z
 summary: L﻿inks for FBLA Events and Signups.
 draft: false
@@ -17,8 +17,16 @@ L﻿ink for Event Information:
 
 [https://www.fbla.org/​divisions/fbla/fbla-​competitive-events/](https://www.fbla.org/divisions/fbla/fbla-competitive-events/)
 
+D﻿ate for Objective Testing:
+
+* D﻿ecember 8th
 
 
-L﻿ink for Event Signup:
 
-[https://forms.gle/​CfGxzG6XdPXbParp8](https://forms.gle/CfGxzG6XdPXbParp8)
+D﻿ate for FBLA Districts:
+
+* February 6th
+
+
+
+M﻿ake sure to study for you objective tests and prepare for you FBLA District Events!
