@@ -193,7 +193,7 @@ sections:
         </style>
 
         <a href="https://docs.google.com/forms/d/e/1FAIpQLScGE2JJ97g_U24mERp4Bp3O8I7armahJ_estqGqus9rC-5pfg/viewform?usp=sf_link" target="_blank">
-          <img id="transparentImg" src="https://github.com/CodeAPretzel/FBLA-Website/blob/main/assets/media/website-image-christmas-challenge-1.png" alt="Christmas Game!">
+          <img id="transparentImg" src="https://raw.githubusercontent.com/CodeAPretzel/FBLA-Website/main/assets/media/website-image-christmas-challenge-1.png" alt="Christmas Game!">
         </a>
       # Automatically link email and phone or display as text?
       autolink: true
