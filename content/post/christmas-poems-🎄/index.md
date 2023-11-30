@@ -7,7 +7,7 @@ featured: true
 tags:
   - Entertainment
 image:
-  filename: website-images-christmas-poems.jpg
+  filename: website-image-christmas-game.jpg
   focal_point: Smart
   preview_only: false
 ---
