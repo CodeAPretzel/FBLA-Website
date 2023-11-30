@@ -18,8 +18,7 @@ sections:
         label: Make a Request
         url: https://docs.google.com/forms/d/e/1FAIpQLSc9zGAn356-OcOvZ19PWAkMEsnyEOkG-NtaK8t-QRmmJ8Y1cA/viewform?usp=sf_link
       cta_note:
-        label: '**🎁 A CHRISTMAS SURPRISE 🎁**'
-        url: https://docs.google.com/forms/d/e/1FAIpQLSdX1Noxn0oGZrmlIvlHYKFDlBYGShRKTOzxF7AJRJ5r4WcF5g/viewform?usp=sf_link
+        label: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSdX1Noxn0oGZrmlIvlHYKFDlBYGShRKTOzxF7AJRJ5r4WcF5g/viewform?usp=sf_link">**🎁 A CHRISTMAS SURPRISE 🎁**</a>'
     
       text: |-
         <br>
