@@ -37,6 +37,6 @@ FBLA, or *Future Business Leaders of America*, is a dynamic organization dedicat
 
 ## Planned Events
 
-* [Marionville Blood Drive - Fall](/talk/marionville-blood-drive-fall/)
+* [FBLA Christmas Party](#upcoming)
 
 <!--EndFragment-->
