@@ -30,7 +30,7 @@ links:
 event: Blood Drive
 event_url: https://docs.google.com/forms/d/e/1FAIpQLSe1F5f-In-izW5BCbzmuiRSuI4nZUnZEZfuD-JmEU34q-0vdw/viewform?usp=sf_link
 publishDate: 2023-09-18T23:43:07.804Z
-draft: false
+draft: true
 featured: false
 tags:
   - Community
