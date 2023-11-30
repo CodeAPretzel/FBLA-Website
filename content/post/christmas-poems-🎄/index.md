@@ -30,7 +30,7 @@ image:
 
 <h1>Get a Christmas Poem!</h1>
  ﻿ <br>
-  <button onclick="getRandomPoem()">CLICK HERE</button>
+  <button onclick="getNextPoem()">CLICK HERE</button>
  ﻿ <br>
  ﻿ <br>
 
@@ -53,14 +53,15 @@ Shelling my nuts for me.
 Now all I need is a glass of eggnog,
 and I'll eat them by my Christmas tree!"`,
  ﻿     `Copy this in your search bar:
-
 https://docs.google.com/forms/d/e/1FAIpQLSewOaDbpc01h--dFwFSdwMb1gPG5iUtw-gWZZw0YitDXjCD-A/viewform?usp=sf_link`
     ];
 
-    function getRandomPoem() {
+ ﻿   let currentIndex = -1;
+
+    function getNextPoem() {
       const poemElement = document.getElementById("poem");
-      const randomIndex = Math.floor(Math.random() * poems.length);
-      poemElement.textContent = poems[randomIndex];
+      currentIndex = (currentIndex + 1) % poems.length;
+      poemElement.textContent = poems[currentIndex];
     }
   </script>
 
