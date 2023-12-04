@@ -17,8 +17,10 @@ sections:
       cta_alt:
         label: Make a Request
         url: https://docs.google.com/forms/d/e/1FAIpQLSc9zGAn356-OcOvZ19PWAkMEsnyEOkG-NtaK8t-QRmmJ8Y1cA/viewform?usp=sf_link
-      cta_note:
-        label: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSdX1Noxn0oGZrmlIvlHYKFDlBYGShRKTOzxF7AJRJ5r4WcF5g/viewform?usp=sf_link" target="_blank">**🎁 A CHRISTMAS SURPRISE 🎁**</a>'
+      
+      # Below is a Christmas Button (Part 1)
+      #cta_note:
+      #  label: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSdX1Noxn0oGZrmlIvlHYKFDlBYGShRKTOzxF7AJRJ5r4WcF5g/viewform?usp=sf_link" target="_blank">**🎁 A CHRISTMAS SURPRISE 🎁**</a>'
     
       text: |-
         <br>
@@ -178,23 +180,26 @@ sections:
           icon_pack: fab
           name: Tiktok
           link: 'https://www.tiktok.com/@marionville.fbla'
-      text: |-
-        <style>
-          /* Styles for the image */
-          #transparentImg {
-            opacity: 0.4;
-            transition: opacity 0.3s ease-in-out;
-            cursor: pointer;
-          }
+      
+      # Below is Christmas Image (Part 2)
+      #text: |-
+      #  <style>
+      #    /* Styles for the image */
+      #    #transparentImg {
+      #      opacity: 0.4;
+      #      transition: opacity 0.3s ease-in-out;
+      #      cursor: pointer;
+      #    }
 
-          #transparentImg:hover {
-            opacity: 1;
-          }
-        </style>
+      #    #transparentImg:hover {
+      #      opacity: 1;
+      #    }
+      #  </style>
 
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScGE2JJ97g_U24mERp4Bp3O8I7armahJ_estqGqus9rC-5pfg/viewform?usp=sf_link" target="_blank">
-          <img id="transparentImg" src="https://raw.githubusercontent.com/CodeAPretzel/FBLA-Website/main/assets/media/website-image-christmas-challenge-1.png" alt="Christmas Game!" height=50 width=50>
-        </a>
+      #  <a href="https://docs.google.com/forms/d/e/1FAIpQLScGE2JJ97g_U24mERp4Bp3O8I7armahJ_estqGqus9rC-5pfg/viewform?usp=sf_link" target="_blank">
+      #    <img id="transparentImg" src="https://raw.githubusercontent.com/CodeAPretzel/FBLA-Website/main/assets/media/website-image-christmas-challenge-1.png" alt="Christmas Game!" height=50 width=50>
+      #  </a>
+      
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
