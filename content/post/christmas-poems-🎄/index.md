@@ -54,8 +54,6 @@ Now all I need is a glass of eggnog,
 and I'll eat them by my Christmas tree!"'
     ];
 
-    // Here's a Christmas Link Game: https://docs.google.com/forms/d/e/1FAIpQLSewOaDbpc01h--dFwFSdwMb1gPG5iUtw-gWZZw0YitDXjCD-A/viewform?usp=sf_link
-
  ﻿   let currentIndex = -1;
 
     function getNextPoem() {
