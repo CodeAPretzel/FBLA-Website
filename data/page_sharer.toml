@@ -31,7 +31,7 @@
   title = "Snapchat"
   icon_pack = "fab"
   icon = "snapchat"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "tiktok"
