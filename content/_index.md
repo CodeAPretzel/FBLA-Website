@@ -164,10 +164,6 @@ sections:
           icon_pack: fab
           name: Instagram
           link: 'https://www.instagram.com/marionville_fbla/'
-        - icon: snapchat
-          icon_pack: fab
-          name: Snapchat
-          link: 'example.com'
         - icon: facebook
           icon_pack: fab
           name: Facebook
