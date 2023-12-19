@@ -12,11 +12,6 @@ social:
     link: https://www.instagram.com/marionville_fbla/
   - display:
       header: false
-    icon_pack: fab
-    icon: snapchat
-    link: example.com
-  - display:
-      header: false
     link: https://www.facebook.com/profile.php?id=100086585220209&mibextid=LQQJ4d
     icon_pack: fab
     icon: facebook
