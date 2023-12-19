@@ -67,15 +67,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: No Upcoming Event
+        - title: FBLA Christmas Party
           company: Marionville FBLA
           # company_url: '/talk/marionville-blood-drive-fall/'
-          # company_logo: fbla-christmas-party
-          # location: <insert-location>
-          # date_start: '2023-12-08'
-          # date_end: '2023-12-08'
+          company_logo: fbla-christmas-party
+          location: Marionville First Baptist Church
+          date_start: '2023-12-08'
+          date_end: '2023-12-08'
           description: |2-
-              Stay Tune to our upcoming events!
+              About:
+              * Have Fun with Team Members!
+              * Skip a Day from School!
+              * And get a Present from FBLA!
     design:
       columns: '1'
   - block: collection
