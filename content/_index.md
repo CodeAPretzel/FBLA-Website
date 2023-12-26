@@ -150,6 +150,13 @@ sections:
         <br>
         <br>
         {{< gallery album="fbla-gallery" >}}
+
+        <br>
+
+        <video autoplay>
+          <source src="../assets/media/fbla-pictures-slide-video-website.mp4" type="video/mp4">
+        </video>
+
     design:
       columns: '1'
 
