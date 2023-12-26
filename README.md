@@ -12,19 +12,20 @@
 </div>
 
 
-# [FBLA Website](https://marionville-fbla.netlify.app/)
+# [FBLA Website](https://www.marionvillefbla.com/)
 
-[![Screenshot](./assets/media/logo-in-website.png)](https://marionville-fbla.netlify.app/)
+[![Screenshot](./assets/media/logo-in-website.png)](https://www.marionvillefbla.com/)
 
 This FBLA website empowers us to communicate with our members and our community about our projects and goals. This website was made possible by the Hugo theme [Academic](https://github.com/wowchemy/starter-hugo-academic).
 
 <b>Menu's and Topics on Website:</b>
-1. [About](https://marionville-fbla.netlify.app/#about)
-2. [Newsletter](https://marionville-fbla.netlify.app/#newsletter)
-3. [Events](https://marionville-fbla.netlify.app/#events)
-4. [Posts](https://marionville-fbla.netlify.app/#posts)
-5. [Gallery](https://marionville-fbla.netlify.app/#gallery)
-6. [Contact](https://marionville-fbla.netlify.app/#contact)
+1. [About](https://www.marionvillefbla.com//#about)
+2. [Officers](https://www.marionvillefbla.com//#officers)
+3. [Upcoming](https://www.marionvillefbla.com//#upcoming)
+4. [Posts](https://www.marionvillefbla.com//#posts)
+5. [Events](https://www.marionvillefbla.com//#events)
+6. [Gallery](https://www.marionvillefbla.com//#gallery)
+7. [Contact](https://www.marionvillefbla.com//#contact)
 
 <br>
 

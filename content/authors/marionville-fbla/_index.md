@@ -12,11 +12,6 @@ social:
     link: https://www.instagram.com/marionville_fbla/
   - display:
       header: false
-    icon_pack: fab
-    icon: snapchat
-    link: example.com
-  - display:
-      header: false
     link: https://www.facebook.com/profile.php?id=100086585220209&mibextid=LQQJ4d
     icon_pack: fab
     icon: facebook
@@ -37,6 +32,6 @@ FBLA, or *Future Business Leaders of America*, is a dynamic organization dedicat
 
 ## Planned Events
 
-* [Marionville Blood Drive - Fall](/talk/marionville-blood-drive-fall/)
+* [FBLA Christmas Party](#upcoming)
 
 <!--EndFragment-->
