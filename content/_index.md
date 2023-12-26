@@ -153,7 +153,7 @@ sections:
 
         <br>
 
-        <video controls autoplay>
+        <video controls>
           <source src="https://raw.githubusercontent.com/CodeAPretzel/FBLA-Website/main/assets/media/fbla-pictures-slide-video-website.mp4" type="video/mp4">
         </video>
 
