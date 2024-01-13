@@ -32,6 +32,6 @@ FBLA, or *Future Business Leaders of America*, is a dynamic organization dedicat
 
 ## Planned Events
 
-* [FBLA Christmas Party](#upcoming)
+* [FBLA Districts](#upcoming)
 
 <!--EndFragment-->
