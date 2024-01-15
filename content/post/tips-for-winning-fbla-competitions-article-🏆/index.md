@@ -11,22 +11,16 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**A﻿rticle' Title:s**\
+**A﻿rticle's Title:**\
 3 Tips To Win Your Next FBLA Competition, As Shared By FBLA's Past NLC Winners
-
-
 
 **A﻿uthor:**
 
 *Madhurya Gajula*
 
-
-
 **Publisher:**
 
 *theodysseyonline*
-
-
 
 **Link to Article:**
 
