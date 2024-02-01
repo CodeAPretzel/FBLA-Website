@@ -1,7 +1,7 @@
 ---
 title: FBLA Member Master Sheet 📑
 date: 2023-10-20T00:17:37.979Z
-summary: S﻿heet for Basic Marionville FBLA Member Info
+summary: S﻿heet for Basic Marionville FBLA Member Info.
 draft: false
 featured: false
 tags:
