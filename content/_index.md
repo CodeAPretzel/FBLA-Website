@@ -69,7 +69,7 @@ sections:
       items:
         - title: Blood Drive
           company: Marionville FBLA
-          # company_url: '/talk/marionville-blood-drive-fall/'
+          company_url: '/talk/marionville-blood-drive-spring/'
           company_logo: blood-droplet
           location: Marionville FBLA District Location
           date_start: '2024-03-20' # Format 'YYYY-MM-DD'
@@ -81,7 +81,6 @@ sections:
               * Make sure to eat and drink plentiful before donating.
         - title: FBLA Sponsor Luncheon
           company: Marionville FBLA
-          # company_url: '/talk/marionville-blood-drive-fall/'
           company_logo: events-icon
           location: Marionville First Baptist Church
           date_start: '2024-03-27' # Format 'YYYY-MM-DD'
