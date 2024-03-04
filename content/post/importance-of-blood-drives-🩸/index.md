@@ -3,7 +3,7 @@ title: Importance of Blood Drives 🩸
 date: 2023-11-10T19:08:26.635Z
 summary: Why should you donate? Because it helps save lives!
 draft: false
-featured: true
+featured: false
 tags:
   - Resources
 image:
