@@ -64,20 +64,33 @@ sections:
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
+      #   Leave `date_end` empty if it's current.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: FBLA Districts
+        - title: Blood Drive
           company: Marionville FBLA
           # company_url: '/talk/marionville-blood-drive-fall/'
-          company_logo: events-icon
+          company_logo: blood-droplet
           location: Marionville FBLA District Location
           date_start: '2024-02-06' # Format 'YYYY-MM-DD'
           date_end: '2024-02-06' # Format 'YYYY-MM-DD'
           description: |2-
               About:
-              * Compete in front of FBLA judges.
-              * Have a chance to go to state!
+              * Donate blood to save lives!
+              * Get out of a school period to do something right!
+              * Make sure to eat and drink plentiful before donating.
+        - title: FBLA Sponsor Luncheon
+          company: Marionville FBLA
+          # company_url: '/talk/marionville-blood-drive-fall/'
+          company_logo: events-icon
+          location: Marionville First Baptist Church
+          date_start: '2024-03-27' # Format 'YYYY-MM-DD'
+          date_end: '2024-03-27' # Format 'YYYY-MM-DD'
+          description: |2-
+              About:
+              * Interact with other businesses in Marionville!
+              * Learn about the practices of businesses!
+              * Become a real business person with your own business card!
     design:
       columns: '1'
   - block: collection
