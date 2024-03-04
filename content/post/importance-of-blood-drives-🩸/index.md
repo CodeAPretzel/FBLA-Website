@@ -2,7 +2,7 @@
 title: Importance of Blood Drives 🩸
 date: 2023-11-10T19:08:26.635Z
 summary: Why should you donate? Because it helps save lives!
-draft: true
+draft: false
 featured: true
 tags:
   - Resources
@@ -17,6 +17,4 @@ Beyond the immediate medical impact, donating blood fosters a sense of community
 
 <br>
 
-<video controls>
-    <source src="" type="video/mp4" playsinline="true" preload="metadata">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kp7fQEetBAM?si=AfhqKYjX7osdrFQT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
