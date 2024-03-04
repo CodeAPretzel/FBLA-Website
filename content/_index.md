@@ -72,8 +72,8 @@ sections:
           # company_url: '/talk/marionville-blood-drive-fall/'
           company_logo: blood-droplet
           location: Marionville FBLA District Location
-          date_start: '2024-02-06' # Format 'YYYY-MM-DD'
-          date_end: '2024-02-06' # Format 'YYYY-MM-DD'
+          date_start: '2024-03-20' # Format 'YYYY-MM-DD'
+          date_end: '2024-03-20' # Format 'YYYY-MM-DD'
           description: |2-
               About:
               * Donate blood to save lives!
