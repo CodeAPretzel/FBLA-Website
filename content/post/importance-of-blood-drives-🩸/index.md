@@ -15,6 +15,14 @@ In a world that often feels chaotic, donating blood emerges as a powerful act of
 
 Beyond the immediate medical impact, donating blood fosters a sense of community and connection. It's a simple yet profound way to show that we care for one another, transcending boundaries and affiliations. Each drop of blood you donate has the potential to make a significant difference, creating a ripple effect of goodwill that resonates far beyond the donation center. So, consider this not just as a routine task but as an opportunity to be a beacon of hope, embodying the spirit of humanity in its purest form.
 
+Ready to donate? Click on the link below for our Google Form signup:
+
+[Form](https://docs.google.com/forms/d/e/1FAIpQLSfMAssBKPDTrmjtrzYzh7P41FzrHvB_iBCaxB45kUlCf9_qAQ/viewform?usp=sf_link)
+
+If you want to learn more, check out our other blog:
+
+[Blog](talk/marionville-blood-drive-spring/)
+
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kp7fQEetBAM?si=AfhqKYjX7osdrFQT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
