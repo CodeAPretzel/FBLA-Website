@@ -8,8 +8,8 @@ summary: |-
   F﻿eeling nervous or don't know where to start?
 
   G﻿ood news! We've set a guide to help with you and your sponsoring needs!
-draft: true
-featured: true
+draft: false
+featured: false
 tags:
   - Resources
 image:
