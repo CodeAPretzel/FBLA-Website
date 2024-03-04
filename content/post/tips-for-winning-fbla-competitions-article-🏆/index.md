@@ -3,7 +3,7 @@ title: Tips for Winning FBLA Competitions - Article 🏆
 date: 2024-01-15T01:16:43.227Z
 summary: L﻿earn today on what it takes to start winning FBLA competitions!
 draft: false
-featured: true
+featured: false
 tags:
   - Resources
 image:
