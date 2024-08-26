@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 summary: Lead person for maintaining FBLA.
-date: 2022-10-04T21:34:37.083Z
+date: 2022-9-04T21:34:37.083Z
 ---
 ![](fbla-krystal-allen-pic.jpeg)
 

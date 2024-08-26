@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 summary: Administers and maintains FBLA and its officers.
-date: 2022-9-03T02:59:00.403Z
+date: 2022-10-03T02:59:00.403Z
 ---
 ![](fbla-abigail-carlton-pic.jpg)
 
