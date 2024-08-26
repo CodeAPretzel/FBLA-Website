@@ -14,4 +14,10 @@ date: 2023-10-03T02:52:43.075Z
 ---
 ![](fbla-brooklyn-holder-pic.jpg)
 
-B﻿rooklyn Holder is a Junior who plays volleyball for Marionville High School. She is our *public relations* officer in charge of planning with the local public and businesses for activities. She exhibits courtesy for the people around her and is enthusiastic about every activity that comes her way.
+B﻿rooklyn loves the connections you make in FBLA. Not only with they community but with classmates!
+
+O﻿ne thing she is looking forward to this upcoming year for FBLA is our team fun day and for FBLA state!
+
+O﻿ther activities she is involved in is volleyball, softball, and she is the president of FCCLA!
+
+B﻿rooklyn's favorite place to eat is Hinode!
