@@ -1,5 +1,5 @@
 ---
-title: VP of Administration
+title: VP of Administration - Bradin Gentry
 publication_types:
   - "0"
 draft: false
