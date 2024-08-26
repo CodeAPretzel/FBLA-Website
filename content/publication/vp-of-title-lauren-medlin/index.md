@@ -15,7 +15,7 @@ date: 2023-10-03T02:53:46.170Z
 
 W﻿hat Dally loves about FBLA is learning about how to be a business leader!
 
-S﻿he is lokking forward to our Christmas party where we meet with businesses and eat good food!
+S﻿he is looking forward to our Christmas party where we meet with businesses and eat good food!
 
 S﻿he is a water girl in football, runs track, plays basketball, volleyball, and golf. She is a also part of FCA, FCCLA, and a member of student council.
 
