@@ -12,7 +12,7 @@ image:
   preview_only: false
 summary: Responsible for recording club and officer meetings and relaying
   summary information.
-date: 2024-08-26T01:25:39.956Z
+date: 2023-08-26T01:25:39.956Z
 ---
 ![](fbla-bradin-gentry-pic.jpg)
 
