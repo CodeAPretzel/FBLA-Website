@@ -24,4 +24,10 @@ date: 2023-09-26T02:37:03.760Z
 ---
 ![](fbla-kyle-smith-pic.jpg)
 
-As a member of FBLA and its communications, I'm responsible for relaying information, events, and topics to the community and our Marionville FBLA members. Most of my passions are computer-related topics and neuroscience, but I also like hiking and exploring nature. This year, I would have been in FBLA for three years, and I've enjoyed every bit of it, and even more each year. I know we have a lot of activities planned this year, and can't wait to have them underway!
+K﻿yle loves that with FBLA, we get to network with businesses, compete in competitions to learn, and develop relations with our peers.
+
+H﻿e hopes that this year in FBLA we'll be able to achieve some of the Gold Level Chapter requirements FBLA wants for their chapters!
+
+O﻿ther than FBLA, he is the founder of the Cybersecurity Club, CyberELITES. This is where you learn through hands-on technology topics and compete in events. He is also involved in Marionville's NHS where they do community activities.
+
+S﻿omething about Kyle is that he is interested in computer technologies and neuroscience, but also enjoys the outdoors; traveling and trailing along nature paths.
