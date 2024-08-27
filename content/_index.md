@@ -68,7 +68,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: AppleFest
-          company: Marionville FBLA
+          company: Facebook Page
           company_url: 'https://www.facebook.com/MarionvilleAppleFest/'
           company_logo: events-icon
           location: Marionville Downtown
