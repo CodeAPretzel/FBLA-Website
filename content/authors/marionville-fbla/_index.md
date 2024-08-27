@@ -32,7 +32,6 @@ FBLA, or *Future Business Leaders of America*, is a dynamic organization dedicat
 
 ## Planned Events
 
-* [Blood Drive](#upcoming)
-* [FBLA Sponsor Luncheon](#upcoming)
+* [AppleFest Volunteering](#upcoming)
 
 <!--EndFragment-->
