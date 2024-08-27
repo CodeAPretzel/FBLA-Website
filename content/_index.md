@@ -67,29 +67,18 @@ sections:
       #   Leave `date_end` empty if it's current.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Blood Drive
+        - title: AppleFest
           company: Marionville FBLA
-          company_url: '/talk/marionville-blood-drive-spring/'
-          company_logo: blood-droplet
-          location: Marionville FBLA District Location
-          date_start: '2024-03-20' # Format 'YYYY-MM-DD'
-          date_end: '2024-03-20' # Format 'YYYY-MM-DD'
-          description: |2-
-              About:
-              * Donate blood to save lives!
-              * Get out of a school period to do something right!
-              * Make sure to eat and drink plentiful before donating.
-        - title: FBLA Sponsor Luncheon
-          company: Marionville FBLA
+          company_url: 'https://www.facebook.com/MarionvilleAppleFest/'
           company_logo: events-icon
-          location: Marionville First Baptist Church
-          date_start: '2024-03-27' # Format 'YYYY-MM-DD'
-          date_end: '2024-03-27' # Format 'YYYY-MM-DD'
+          location: Marionville Downtown
+          date_start: '2024-09-20' # Format 'YYYY-MM-DD'
+          date_end: '2024-09-21' # Format 'YYYY-MM-DD'
           description: |2-
               About:
-              * Interact with other businesses in Marionville!
-              * Learn about the practices of businesses!
-              * Become a real business person with your own business card!
+              * Feel more connected to the community!
+              * Volunteer at the stands to be a part of something bigger!
+              * And always, have FUN!
     design:
       columns: '1'
   - block: collection

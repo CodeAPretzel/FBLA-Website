@@ -17,4 +17,4 @@ B﻿elow is an attachment for the master sheet Marionville FBLA uses for *member
 
 L﻿ink:
 
-<https://docs.google.com/spreadsheets/d/1kDfLSbuWf_UG2PslRmrnd8xGYOYbZtabST4Y9opte_o/edit?usp=sharing>
+<https://docs.google.com/spreadsheets/d/1Q_JcAOAKUSRwuygx91xrlqz5WmkxAvl3PyE6Fw9LzTw/edit?usp=sharing>
