@@ -17,16 +17,26 @@ L﻿ink for Event Information:
 
 [https://www.fbla.org/​divisions/fbla/fbla-​competitive-events/](https://www.fbla.org/divisions/fbla/fbla-competitive-events/)
 
+Full chart:
+
+[https://connect.fbla.org/headquarters/files/High%20School%20Competitive%20Events%20Resources/24-25-High-School-CE-At-A-Glance.pdf](https://connect.fbla.org/headquarters/files/High%20School%20Competitive%20Events%20Resources/24-25-High-School-CE-At-A-Glance.pdf)
+
+Choose your event:
+
+[https://storage.googleapis.com/articulate-courses/BAA%20Contributor/Choose%20Your%20Event%20(FBLA%20HS)%202023-24/story.html](https://storage.googleapis.com/articulate-courses/BAA%20Contributor/Choose%20Your%20Event%20(FBLA%20HS)%202023-24/story.html)
+
+<br>
+
 D﻿ate for Objective Testing:
 
-* D﻿ecember 8th
+* TBD
 
 
 
 D﻿ate for FBLA Districts:
 
-* February 6th
+* TBD
 
+<br>
 
-
-M﻿ake sure to study for you objective tests and prepare for you FBLA District Events!
+M﻿ake sure to study for your objective tests and prepare for your FBLA District Events!
