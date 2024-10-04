@@ -13,15 +13,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-L﻿ink for Event Information:
+Event Information:
 
 [https://www.fbla.org/​divisions/fbla/fbla-​competitive-events/](https://www.fbla.org/divisions/fbla/fbla-competitive-events/)
 
-Full chart:
+Event At-A-Glance Chart:
 
 [https://connect.fbla.org/headquarters/files/High%20School%20Competitive%20Events%20Resources/24-25-High-School-CE-At-A-Glance.pdf](https://connect.fbla.org/headquarters/files/High%20School%20Competitive%20Events%20Resources/24-25-High-School-CE-At-A-Glance.pdf)
 
-Choose your event:
+Decide Which Event is for You:
 
 [https://storage.googleapis.com/articulate-courses/BAA%20Contributor/Choose%20Your%20Event%20(FBLA%20HS)%202023-24/story.html](https://storage.googleapis.com/articulate-courses/BAA%20Contributor/Choose%20Your%20Event%20(FBLA%20HS)%202023-24/story.html)
 
