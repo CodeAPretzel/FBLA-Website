@@ -67,18 +67,16 @@ sections:
       #   Leave `date_end` empty if it's current.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: AppleFest
-          company: Facebook Page
-          company_url: 'https://www.facebook.com/MarionvilleAppleFest/'
+        - title: FBLA Districts
+          company: Post
+          company_url: 'https://marionvillefbla.com/project/fbla-events/'
           company_logo: events-icon
-          location: Marionville Downtown
-          date_start: '2024-09-20' # Format 'YYYY-MM-DD'
-          date_end: '2024-09-21' # Format 'YYYY-MM-DD'
+          location: Missouri
+          date_start: '2025-02-01' # Format 'YYYY-MM-DD'
+          date_end: '2025-02-01' # Format 'YYYY-MM-DD'
           description: |2-
               About:
-              * Feel more connected to the community!
-              * Volunteer at the stands to be a part of something bigger!
-              * And always, have FUN!
+              * Prepare to compete in your FBLA event!
     design:
       columns: '1'
   - block: collection
