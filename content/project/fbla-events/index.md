@@ -25,7 +25,7 @@ Event At-A-Glance Chart:
 
 D﻿ate for FBLA Districts:
 
-* TBD
+* February 4th, 2025
 
 <br>
 
