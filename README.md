@@ -13,8 +13,7 @@
 
 
 # [FBLA Website](https://www.marionvillefbla.com/)
-
-[![Screenshot](./assets/media/logo-in-website.png)](https://www.marionvillefbla.com/)
+<img src="./assets/media/logo-in-website.png" alt="Logo" width="25%"/>
 
 This FBLA website empowers us to communicate with our members and our community about our projects and goals. This website was made possible by the Hugo theme [Academic](https://github.com/wowchemy/starter-hugo-academic).
 
